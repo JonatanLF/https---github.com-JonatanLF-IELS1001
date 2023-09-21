@@ -51,7 +51,6 @@ void regnbue()
     }
 }
 
-
 void loop()
 {
     //lysfunk();

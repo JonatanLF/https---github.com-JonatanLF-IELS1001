@@ -50,7 +50,7 @@ void regnbue()
         delay((dly+80)/70);
     }
 }
-
+//Hei
 void loop()
 {
     //lysfunk();
